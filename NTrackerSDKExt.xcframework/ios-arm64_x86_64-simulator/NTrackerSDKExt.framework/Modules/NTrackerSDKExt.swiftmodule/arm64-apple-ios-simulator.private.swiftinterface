@@ -1,0 +1,111 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NTrackerSDKExt
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import AdSupport
+import AppTrackingTransparency
+import CommonCrypto
+import CoreTelephony
+import Foundation
+import MetricKit
+import SQLite3
+import StoreKit
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+import os.log
+import os
+import zlib
+public enum NTrackerConversionEvent : Swift.String {
+  case cart
+  case wishList
+  case application
+  case subscribe
+  case reservation
+  case viewContent
+  case levelEnd
+  case tutorial
+  case signUp
+  case customEvent001
+  case customEvent002
+  case customEvent003
+  case customEvent004
+  case customEvent005
+  case customEvent006
+  case customEvent007
+  case customEvent008
+  case customEvent009
+  case customEvent010
+  case inAppPurchase
+  case purchase
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct NTrackerConversionItem : Swift.Codable {
+  public init(quantity: Swift.Int, payAmount: Swift.Double, id: Swift.String? = nil, name: Swift.String? = nil, category: Swift.String? = nil, option: Swift.String? = nil, ext1: Swift.String? = nil, ext2: Swift.String? = nil)
+  public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+}
+@_hasMissingDesignatedInitializers public class NTrackerExt {
+  public class func enableDebugLog(_ enable: Swift.Bool)
+  public class func configure(serviceID: Swift.String, phase: NTrackerSDKExt.NTrackerPhase = .release)
+  public class func trackPurchaseEvent(items: [NTrackerSDKExt.NTrackerConversionItem])
+  public class func trackPurchaseEvent(value: Swift.Double, items: [NTrackerSDKExt.NTrackerConversionItem]? = nil)
+  public class func trackInAppPurchaseEvent(items: [NTrackerSDKExt.NTrackerConversionItem])
+  public class func trackInAppPurchaseEvent(value: Swift.Double, items: [NTrackerSDKExt.NTrackerConversionItem]? = nil)
+  public class func trackConversionEvent(_ name: NTrackerSDKExt.NTrackerConversionEvent, items: [NTrackerSDKExt.NTrackerConversionItem]? = nil)
+  public class func trackConversionEvent(_ name: NTrackerSDKExt.NTrackerConversionEvent, value: Swift.Double? = nil, items: [NTrackerSDKExt.NTrackerConversionItem]? = nil)
+  public class func setInflow(url: Foundation.URL?)
+  @objc deinit
+}
+public protocol NTrackerNetworkClient {
+  func post(_ networkRequest: NTrackerSDKExt.NTrackerNetworkRequest?) -> NTrackerSDKExt.NTrackerNetworkResponse?
+}
+public protocol NTrackerCookieProvider {
+  func getCookie() -> Swift.String?
+}
+public enum NTrackerPhase {
+  case debug
+  case release
+  public static func == (a: NTrackerSDKExt.NTrackerPhase, b: NTrackerSDKExt.NTrackerPhase) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct NTrackerLoggingOption : Swift.OptionSet {
+  public let rawValue: Swift.UInt
+  public init(rawValue: Swift.UInt)
+  public static let collectIAP: NTrackerSDKExt.NTrackerLoggingOption
+  public static let collectIDFA: NTrackerSDKExt.NTrackerLoggingOption
+  public static let collectIDFV: NTrackerSDKExt.NTrackerLoggingOption
+  public static let collectMetricKitReport: NTrackerSDKExt.NTrackerLoggingOption
+  public static let collectNetworkUrlQueryString: NTrackerSDKExt.NTrackerLoggingOption
+  public typealias ArrayLiteralElement = NTrackerSDKExt.NTrackerLoggingOption
+  public typealias Element = NTrackerSDKExt.NTrackerLoggingOption
+  public typealias RawValue = Swift.UInt
+}
+public class NTrackerNetworkResponse {
+  public init(networkRequest: NTrackerSDKExt.NTrackerNetworkRequest, statusCode: Swift.Int, headerFields: Swift.Dictionary<Swift.AnyHashable, Any>?, body: Foundation.Data?, error: Swift.Error?)
+  public class func create(_ networkRequest: NTrackerSDKExt.NTrackerNetworkRequest, statusCode: Swift.Int, headerFields: Swift.Dictionary<Swift.AnyHashable, Any>, body: Foundation.Data) -> NTrackerSDKExt.NTrackerNetworkResponse?
+  public class func create(_ networkRequest: NTrackerSDKExt.NTrackerNetworkRequest, error: Swift.Error) -> NTrackerSDKExt.NTrackerNetworkResponse?
+  @objc deinit
+}
+@available(*, unavailable, renamed: "Notification.Name.reachabilityChanged")
+public let ReachabilityChangedNotification: Foundation.NSNotification.Name
+@_hasMissingDesignatedInitializers public class NTrackerNetworkRequest {
+  public class func create(_ urlHost: Swift.String, urlPath: Swift.String, headerFields: Swift.Dictionary<Swift.String, Swift.String>, body: Foundation.Data?) -> NTrackerSDKExt.NTrackerNetworkRequest?
+  public func urlRequest() -> Foundation.URLRequest?
+  @objc deinit
+}
+extension NTrackerSDKExt.NTrackerConversionEvent : Swift.Equatable {}
+extension NTrackerSDKExt.NTrackerConversionEvent : Swift.Hashable {}
+extension NTrackerSDKExt.NTrackerConversionEvent : Swift.RawRepresentable {}
+extension NTrackerSDKExt.NTrackerPhase : Swift.Equatable {}
+extension NTrackerSDKExt.NTrackerPhase : Swift.Hashable {}

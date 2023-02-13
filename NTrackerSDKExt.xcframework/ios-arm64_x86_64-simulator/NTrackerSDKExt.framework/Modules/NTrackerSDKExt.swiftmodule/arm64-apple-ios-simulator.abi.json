@@ -1,0 +1,4829 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "StoreKit",
+        "printedName": "StoreKit",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerConversionEvent",
+        "printedName": "NTrackerConversionEvent",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "cart",
+            "printedName": "cart",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO4cartyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO4cartyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "wishList",
+            "printedName": "wishList",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO8wishListyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO8wishListyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "application",
+            "printedName": "application",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO11applicationyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO11applicationyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "subscribe",
+            "printedName": "subscribe",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO9subscribeyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO9subscribeyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "reservation",
+            "printedName": "reservation",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO11reservationyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO11reservationyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "viewContent",
+            "printedName": "viewContent",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO11viewContentyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO11viewContentyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "levelEnd",
+            "printedName": "levelEnd",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO8levelEndyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO8levelEndyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "tutorial",
+            "printedName": "tutorial",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO8tutorialyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO8tutorialyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "signUp",
+            "printedName": "signUp",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO6signUpyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO6signUpyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent001",
+            "printedName": "customEvent001",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent001yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent001yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent002",
+            "printedName": "customEvent002",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent002yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent002yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent003",
+            "printedName": "customEvent003",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent003yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent003yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent004",
+            "printedName": "customEvent004",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent004yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent004yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent005",
+            "printedName": "customEvent005",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent005yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent005yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent006",
+            "printedName": "customEvent006",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent006yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent006yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent007",
+            "printedName": "customEvent007",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent007yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent007yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent008",
+            "printedName": "customEvent008",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent008yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent008yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent009",
+            "printedName": "customEvent009",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent009yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent009yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "customEvent010",
+            "printedName": "customEvent010",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO14customEvent010yA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO14customEvent010yA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "inAppPurchase",
+            "printedName": "inAppPurchase",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO13inAppPurchaseyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO13inAppPurchaseyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Var",
+            "name": "purchase",
+            "printedName": "purchase",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerConversionEvent.Type) -> NTrackerSDKExt.NTrackerConversionEvent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionEvent",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                        "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO8purchaseyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO8purchaseyA2CmF",
+            "moduleName": "NTrackerSDKExt"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NTrackerSDKExt.NTrackerConversionEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionEvent",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                    "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO8rawValueACSgSS_tcfc",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO8rawValueACSgSS_tcfc",
+            "moduleName": "NTrackerSDKExt",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A15ConversionEventO8rawValueSSvp",
+            "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO8rawValueSSvp",
+            "moduleName": "NTrackerSDKExt",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A15ConversionEventO8rawValueSSvg",
+                "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO8rawValueSSvg",
+                "moduleName": "NTrackerSDKExt",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14NTrackerSDKExt0A15ConversionEventO",
+        "mangledName": "$s14NTrackerSDKExt0A15ConversionEventO",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerConversionItem",
+        "printedName": "NTrackerConversionItem",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(quantity:payAmount:id:name:category:option:ext1:ext2:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerConversionItem",
+                "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NTrackerSDKExt0A14ConversionItemV8quantity9payAmount2id4name8category6option4ext14ext2ACSi_SdSSSgA5Ltcfc",
+            "mangledName": "$s14NTrackerSDKExt0A14ConversionItemV8quantity9payAmount2id4name8category6option4ext14ext2ACSi_SdSSSgA5Ltcfc",
+            "moduleName": "NTrackerSDKExt",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerConversionItem",
+                "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NTrackerSDKExt0A14ConversionItemV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s14NTrackerSDKExt0A14ConversionItemV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "NTrackerSDKExt",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A14ConversionItemV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s14NTrackerSDKExt0A14ConversionItemV6encode2toys7Encoder_p_tKF",
+            "moduleName": "NTrackerSDKExt",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14NTrackerSDKExt0A14ConversionItemV",
+        "mangledName": "$s14NTrackerSDKExt0A14ConversionItemV",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerExt",
+        "printedName": "NTrackerExt",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "enableDebugLog",
+            "printedName": "enableDebugLog(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC14enableDebugLogyySbFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC14enableDebugLogyySbFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(serviceID:phase:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerPhase",
+                "printedName": "NTrackerSDKExt.NTrackerPhase",
+                "hasDefaultArg": true,
+                "usr": "s:14NTrackerSDKExt0A5PhaseO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC9configure9serviceID5phaseySS_AA0A5PhaseOtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC9configure9serviceID5phaseySS_AA0A5PhaseOtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackPurchaseEvent",
+            "printedName": "trackPurchaseEvent(items:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[NTrackerSDKExt.NTrackerConversionItem]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionItem",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                    "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC18trackPurchaseEvent5itemsySayAA0A14ConversionItemVG_tFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC18trackPurchaseEvent5itemsySayAA0A14ConversionItemVG_tFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackPurchaseEvent",
+            "printedName": "trackPurchaseEvent(value:items:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[NTrackerSDKExt.NTrackerConversionItem]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[NTrackerSDKExt.NTrackerConversionItem]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionItem",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                        "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC18trackPurchaseEvent5value5itemsySd_SayAA0A14ConversionItemVGSgtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC18trackPurchaseEvent5value5itemsySd_SayAA0A14ConversionItemVGSgtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackInAppPurchaseEvent",
+            "printedName": "trackInAppPurchaseEvent(items:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[NTrackerSDKExt.NTrackerConversionItem]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerConversionItem",
+                    "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                    "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC23trackInAppPurchaseEvent5itemsySayAA0A14ConversionItemVG_tFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC23trackInAppPurchaseEvent5itemsySayAA0A14ConversionItemVG_tFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackInAppPurchaseEvent",
+            "printedName": "trackInAppPurchaseEvent(value:items:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[NTrackerSDKExt.NTrackerConversionItem]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[NTrackerSDKExt.NTrackerConversionItem]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionItem",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                        "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC23trackInAppPurchaseEvent5value5itemsySd_SayAA0A14ConversionItemVGSgtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC23trackInAppPurchaseEvent5value5itemsySd_SayAA0A14ConversionItemVGSgtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackConversionEvent",
+            "printedName": "trackConversionEvent(_:items:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerConversionEvent",
+                "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[NTrackerSDKExt.NTrackerConversionItem]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[NTrackerSDKExt.NTrackerConversionItem]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionItem",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                        "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC20trackConversionEvent_5itemsyAA0aeF0O_SayAA0aE4ItemVGSgtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC20trackConversionEvent_5itemsyAA0aeF0O_SayAA0aE4ItemVGSgtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "trackConversionEvent",
+            "printedName": "trackConversionEvent(_:value:items:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerConversionEvent",
+                "printedName": "NTrackerSDKExt.NTrackerConversionEvent",
+                "usr": "s:14NTrackerSDKExt0A15ConversionEventO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Double?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[NTrackerSDKExt.NTrackerConversionItem]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[NTrackerSDKExt.NTrackerConversionItem]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerConversionItem",
+                        "printedName": "NTrackerSDKExt.NTrackerConversionItem",
+                        "usr": "s:14NTrackerSDKExt0A14ConversionItemV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC20trackConversionEvent_5value5itemsyAA0aeF0O_SdSgSayAA0aE4ItemVGSgtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC20trackConversionEvent_5value5itemsyAA0aeF0O_SdSgSayAA0aE4ItemVGSgtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setInflow",
+            "printedName": "setInflow(url:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A3ExtC9setInflow3urly10Foundation3URLVSg_tFZ",
+            "mangledName": "$s14NTrackerSDKExt0A3ExtC9setInflow3urly10Foundation3URLVSg_tFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14NTrackerSDKExt0A3ExtC",
+        "mangledName": "$s14NTrackerSDKExt0A3ExtC",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerNetworkClient",
+        "printedName": "NTrackerNetworkClient",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "post",
+            "printedName": "post(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkResponse?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerNetworkResponse",
+                    "printedName": "NTrackerSDKExt.NTrackerNetworkResponse",
+                    "usr": "s:14NTrackerSDKExt0A15NetworkResponseC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkRequest?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerNetworkRequest",
+                    "printedName": "NTrackerSDKExt.NTrackerNetworkRequest",
+                    "usr": "s:14NTrackerSDKExt0A14NetworkRequestC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A13NetworkClientP4postyAA0aC8ResponseCSgAA0aC7RequestCSgF",
+            "mangledName": "$s14NTrackerSDKExt0A13NetworkClientP4postyAA0aC8ResponseCSgAA0aC7RequestCSgF",
+            "moduleName": "NTrackerSDKExt",
+            "genericSig": "<τ_0_0 where τ_0_0 : NTrackerSDKExt.NTrackerNetworkClient>",
+            "sugared_genericSig": "<Self where Self : NTrackerSDKExt.NTrackerNetworkClient>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:14NTrackerSDKExt0A13NetworkClientP",
+        "mangledName": "$s14NTrackerSDKExt0A13NetworkClientP",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerCookieProvider",
+        "printedName": "NTrackerCookieProvider",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getCookie",
+            "printedName": "getCookie()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A14CookieProviderP03getC0SSSgyF",
+            "mangledName": "$s14NTrackerSDKExt0A14CookieProviderP03getC0SSSgyF",
+            "moduleName": "NTrackerSDKExt",
+            "genericSig": "<τ_0_0 where τ_0_0 : NTrackerSDKExt.NTrackerCookieProvider>",
+            "sugared_genericSig": "<Self where Self : NTrackerSDKExt.NTrackerCookieProvider>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:14NTrackerSDKExt0A14CookieProviderP",
+        "mangledName": "$s14NTrackerSDKExt0A14CookieProviderP",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerPhase",
+        "printedName": "NTrackerPhase",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "debug",
+            "printedName": "debug",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerPhase.Type) -> NTrackerSDKExt.NTrackerPhase",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerPhase",
+                    "printedName": "NTrackerSDKExt.NTrackerPhase",
+                    "usr": "s:14NTrackerSDKExt0A5PhaseO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerPhase.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerPhase",
+                        "printedName": "NTrackerSDKExt.NTrackerPhase",
+                        "usr": "s:14NTrackerSDKExt0A5PhaseO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A5PhaseO5debugyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A5PhaseO5debugyA2CmF",
+            "moduleName": "NTrackerSDKExt",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "release",
+            "printedName": "release",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(NTrackerSDKExt.NTrackerPhase.Type) -> NTrackerSDKExt.NTrackerPhase",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerPhase",
+                    "printedName": "NTrackerSDKExt.NTrackerPhase",
+                    "usr": "s:14NTrackerSDKExt0A5PhaseO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "NTrackerSDKExt.NTrackerPhase.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NTrackerPhase",
+                        "printedName": "NTrackerSDKExt.NTrackerPhase",
+                        "usr": "s:14NTrackerSDKExt0A5PhaseO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14NTrackerSDKExt0A5PhaseO7releaseyA2CmF",
+            "mangledName": "$s14NTrackerSDKExt0A5PhaseO7releaseyA2CmF",
+            "moduleName": "NTrackerSDKExt",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerPhase",
+                "printedName": "NTrackerSDKExt.NTrackerPhase",
+                "usr": "s:14NTrackerSDKExt0A5PhaseO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerPhase",
+                "printedName": "NTrackerSDKExt.NTrackerPhase",
+                "usr": "s:14NTrackerSDKExt0A5PhaseO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A5PhaseO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A5PhaseO2eeoiySbAC_ACtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A5PhaseO9hashValueSivp",
+            "mangledName": "$s14NTrackerSDKExt0A5PhaseO9hashValueSivp",
+            "moduleName": "NTrackerSDKExt",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A5PhaseO9hashValueSivg",
+                "mangledName": "$s14NTrackerSDKExt0A5PhaseO9hashValueSivg",
+                "moduleName": "NTrackerSDKExt",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A5PhaseO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s14NTrackerSDKExt0A5PhaseO4hash4intoys6HasherVz_tF",
+            "moduleName": "NTrackerSDKExt",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14NTrackerSDKExt0A5PhaseO",
+        "mangledName": "$s14NTrackerSDKExt0A5PhaseO",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerLoggingOption",
+        "printedName": "NTrackerLoggingOption",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UInt",
+                "printedName": "Swift.UInt",
+                "usr": "s:Su"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV8rawValueSuvp",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV8rawValueSuvp",
+            "moduleName": "NTrackerSDKExt",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt",
+                    "printedName": "Swift.UInt",
+                    "usr": "s:Su"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV8rawValueSuvg",
+                "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV8rawValueSuvg",
+                "moduleName": "NTrackerSDKExt",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerLoggingOption",
+                "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UInt",
+                "printedName": "Swift.UInt",
+                "usr": "s:Su"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV8rawValueACSu_tcfc",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV8rawValueACSu_tcfc",
+            "moduleName": "NTrackerSDKExt",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "collectIAP",
+            "printedName": "collectIAP",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerLoggingOption",
+                "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV10collectIAPACvpZ",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV10collectIAPACvpZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV10collectIAPACvgZ",
+                "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV10collectIAPACvgZ",
+                "moduleName": "NTrackerSDKExt",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "collectIDFA",
+            "printedName": "collectIDFA",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerLoggingOption",
+                "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV11collectIDFAACvpZ",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV11collectIDFAACvpZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV11collectIDFAACvgZ",
+                "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV11collectIDFAACvgZ",
+                "moduleName": "NTrackerSDKExt",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "collectIDFV",
+            "printedName": "collectIDFV",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerLoggingOption",
+                "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV11collectIDFVACvpZ",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV11collectIDFVACvpZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV11collectIDFVACvgZ",
+                "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV11collectIDFVACvgZ",
+                "moduleName": "NTrackerSDKExt",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "collectMetricKitReport",
+            "printedName": "collectMetricKitReport",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerLoggingOption",
+                "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV22collectMetricKitReportACvpZ",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV22collectMetricKitReportACvpZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV22collectMetricKitReportACvgZ",
+                "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV22collectMetricKitReportACvgZ",
+                "moduleName": "NTrackerSDKExt",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "collectNetworkUrlQueryString",
+            "printedName": "collectNetworkUrlQueryString",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerLoggingOption",
+                "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV28collectNetworkUrlQueryStringACvpZ",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV28collectNetworkUrlQueryStringACvpZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV28collectNetworkUrlQueryStringACvgZ",
+                "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV28collectNetworkUrlQueryStringACvgZ",
+                "moduleName": "NTrackerSDKExt",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14NTrackerSDKExt0A13LoggingOptionV",
+        "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "OptionSet",
+            "printedName": "OptionSet",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s9OptionSetP",
+            "mangledName": "$ss9OptionSetP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt",
+                    "printedName": "Swift.UInt",
+                    "usr": "s:Su"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SetAlgebra",
+            "printedName": "SetAlgebra",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s10SetAlgebraP",
+            "mangledName": "$ss10SetAlgebraP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByArrayLiteral",
+            "printedName": "ExpressibleByArrayLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ArrayLiteralElement",
+                "printedName": "ArrayLiteralElement",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s25ExpressibleByArrayLiteralP",
+            "mangledName": "$ss25ExpressibleByArrayLiteralP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SQLite3",
+        "printedName": "SQLite3",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "zlib",
+        "printedName": "zlib",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "MetricKit",
+        "printedName": "MetricKit",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerNetworkResponse",
+        "printedName": "NTrackerNetworkResponse",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(networkRequest:statusCode:headerFields:body:error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerNetworkResponse",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkResponse",
+                "usr": "s:14NTrackerSDKExt0A15NetworkResponseC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerNetworkRequest",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkRequest",
+                "usr": "s:14NTrackerSDKExt0A14NetworkRequestC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.AnyHashable : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.AnyHashable : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Error?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NTrackerSDKExt0A15NetworkResponseC14networkRequest10statusCode12headerFields4body5errorAcA0acF0C_SiSDys11AnyHashableVypGSg10Foundation4DataVSgs5Error_pSgtcfc",
+            "mangledName": "$s14NTrackerSDKExt0A15NetworkResponseC14networkRequest10statusCode12headerFields4body5errorAcA0acF0C_SiSDys11AnyHashableVypGSg10Foundation4DataVSgs5Error_pSgtcfc",
+            "moduleName": "NTrackerSDKExt",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "create",
+            "printedName": "create(_:statusCode:headerFields:body:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkResponse?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerNetworkResponse",
+                    "printedName": "NTrackerSDKExt.NTrackerNetworkResponse",
+                    "usr": "s:14NTrackerSDKExt0A15NetworkResponseC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerNetworkRequest",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkRequest",
+                "usr": "s:14NTrackerSDKExt0A14NetworkRequestC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.AnyHashable : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A15NetworkResponseC6create_10statusCode12headerFields4bodyACSgAA0aC7RequestC_SiSDys11AnyHashableVypG10Foundation4DataVtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A15NetworkResponseC6create_10statusCode12headerFields4bodyACSgAA0aC7RequestC_SiSDys11AnyHashableVypG10Foundation4DataVtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "create",
+            "printedName": "create(_:error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkResponse?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerNetworkResponse",
+                    "printedName": "NTrackerSDKExt.NTrackerNetworkResponse",
+                    "usr": "s:14NTrackerSDKExt0A15NetworkResponseC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerNetworkRequest",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkRequest",
+                "usr": "s:14NTrackerSDKExt0A14NetworkRequestC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A15NetworkResponseC6create_5errorACSgAA0aC7RequestC_s5Error_ptFZ",
+            "mangledName": "$s14NTrackerSDKExt0A15NetworkResponseC6create_5errorACSgAA0aC7RequestC_s5Error_ptFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14NTrackerSDKExt0A15NetworkResponseC",
+        "mangledName": "$s14NTrackerSDKExt0A15NetworkResponseC",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SQLite3",
+        "printedName": "SQLite3",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NTrackerNetworkRequest",
+        "printedName": "NTrackerNetworkRequest",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "create",
+            "printedName": "create(_:urlPath:headerFields:body:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "NTrackerSDKExt.NTrackerNetworkRequest?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerNetworkRequest",
+                    "printedName": "NTrackerSDKExt.NTrackerNetworkRequest",
+                    "usr": "s:14NTrackerSDKExt0A14NetworkRequestC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A14NetworkRequestC6create_7urlPath12headerFields4bodyACSgSS_SSSDyS2SG10Foundation4DataVSgtFZ",
+            "mangledName": "$s14NTrackerSDKExt0A14NetworkRequestC6create_7urlPath12headerFields4bodyACSgSS_SSSDyS2SG10Foundation4DataVSgtFZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "urlRequest",
+            "printedName": "urlRequest()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URLRequest?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URLRequest",
+                    "printedName": "Foundation.URLRequest",
+                    "usr": "s:10Foundation10URLRequestV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NTrackerSDKExt0A14NetworkRequestC03urlD010Foundation10URLRequestVSgyF",
+            "mangledName": "$s14NTrackerSDKExt0A14NetworkRequestC03urlD010Foundation10URLRequestVSgyF",
+            "moduleName": "NTrackerSDKExt",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14NTrackerSDKExt0A14NetworkRequestC",
+        "mangledName": "$s14NTrackerSDKExt0A14NetworkRequestC",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NTrackerSDKExt",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 50,
+      "value": "\"com.navercorp.ntracker.serialqueue.eventdelivery\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
+      "kind": "StringLiteral",
+      "offset": 345,
+      "length": 54,
+      "value": "\"com.navercorp.ntracker.serialqueue.eventdeliveryWake\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
+      "kind": "FloatLiteral",
+      "offset": 479,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
+      "kind": "FloatLiteral",
+      "offset": 496,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
+      "kind": "FloatLiteral",
+      "offset": 514,
+      "length": 5,
+      "value": "300.0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
+      "kind": "StringLiteral",
+      "offset": 114,
+      "length": 13,
+      "value": "\"NTrackerSDKExt.EventDelivery\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueDB.swift",
+      "kind": "StringLiteral",
+      "offset": 167,
+      "length": 17,
+      "value": "\"NTRACKER_EVENTS\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueDB.swift",
+      "kind": "StringLiteral",
+      "offset": 203,
+      "length": 4,
+      "value": "\"ID\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueDB.swift",
+      "kind": "StringLiteral",
+      "offset": 232,
+      "length": 11,
+      "value": "\"TIMESTAMP\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueDB.swift",
+      "kind": "StringLiteral",
+      "offset": 267,
+      "length": 10,
+      "value": "\"JSONDATA\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueDB.swift",
+      "kind": "StringLiteral",
+      "offset": 327,
+      "length": 52,
+      "value": "\"com.navercorp.ntracker.serialqueue.deliveryqueuedb\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueDB.swift",
+      "kind": "IntegerLiteral",
+      "offset": 440,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueDB.swift",
+      "kind": "IntegerLiteral",
+      "offset": 469,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDispatcher.swift",
+      "kind": "StringLiteral",
+      "offset": 182,
+      "length": 52,
+      "value": "\"com.navercorp.ntracker.serialqueue.eventdispatcher\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/PaymentObserver.swift",
+      "kind": "BooleanLiteral",
+      "offset": 256,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/PaymentObserver.swift",
+      "kind": "StringLiteral",
+      "offset": 1793,
+      "length": 23,
+      "value": "\"NTrackerSDKExt.PaymentProductRequestor\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 399,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 441,
+      "length": 38,
+      "value": "\"00000000-0000-0000-0000-000000000000\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 524,
+      "length": 24,
+      "value": "\"com.navercorp.ntracker\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 580,
+      "length": 18,
+      "value": "\"NTrackerClientID\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 637,
+      "length": 24,
+      "value": "\"NTrackerFirstInstallTS\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 761,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 805,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 918,
+      "length": 17,
+      "value": "\"CFBundleVersion\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 951,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 1058,
+      "length": 14,
+      "value": "\"CFBundleName\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 1088,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 1195,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 1278,
+      "length": 5,
+      "value": "\"iOS\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 1969,
+      "length": 26,
+      "value": "\"kCFLocaleLanguageCodeKey\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 2482,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 2534,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 2541,
+      "length": 1,
+      "value": "\"_\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 2548,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 2669,
+      "length": 3,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 2702,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 2961,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3005,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3012,
+      "length": 1,
+      "value": "\"_\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3019,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3067,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3301,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3393,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3580,
+      "length": 6,
+      "value": "\"_Mac\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3912,
+      "length": 82,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3952,
+      "length": 1,
+      "value": "\"x\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3993,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 4411,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 4497,
+      "length": 49,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 4545,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5999,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6178,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6427,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6630,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6834,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 7312,
+      "length": 15,
+      "value": "\"kern.boottime\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7352,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7946,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8242,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8676,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12072,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12083,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12169,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 181,
+      "length": 24,
+      "value": "\"com.navercorp.ntracker\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 217,
+      "length": 10,
+      "value": "\"ntracker\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/HeartbeatDelivery.swift",
+      "kind": "IntegerLiteral",
+      "offset": 198,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/HeartbeatDelivery.swift",
+      "kind": "IntegerLiteral",
+      "offset": 528,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/AtomicInteger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 262,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/AtomicInteger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 340,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/AtomicInteger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 990,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 733,
+      "length": 50,
+      "value": "\"https:\/\/ntracker-ext-collector.naver.com\/app\/v1\/\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 833,
+      "length": 54,
+      "value": "\"https:\/\/ntracker-ext-collector-stg.naver.com\/app\/v1\/\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1135,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 1232,
+      "length": 52,
+      "value": "\"com.navercorp.ntracker.serialqueue.ntrackercontext\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 1375,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 1510,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 1544,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 1684,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 1720,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1920,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2054,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 2099,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 2152,
+      "length": 7,
+      "value": "\"1.0.0\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2355,
+      "length": 10,
+      "value": "2222222222"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 5595,
+      "length": 8,
+      "value": "\"Cookie\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 5644,
+      "length": 12,
+      "value": "\"User-Agent\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 188,
+      "length": 13,
+      "value": "\"add_to_cart\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 222,
+      "length": 17,
+      "value": "\"add_to_wishlist\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 6,
+      "value": "\"lead\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 11,
+      "value": "\"subscribe\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 326,
+      "length": 10,
+      "value": "\"schedule\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 360,
+      "length": 14,
+      "value": "\"view_content\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 395,
+      "length": 10,
+      "value": "\"level_up\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 426,
+      "length": 19,
+      "value": "\"complete_tutorial\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 464,
+      "length": 9,
+      "value": "\"sign_up\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 505,
+      "length": 11,
+      "value": "\"custom001\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 543,
+      "length": 11,
+      "value": "\"custom002\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 581,
+      "length": 11,
+      "value": "\"custom003\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 619,
+      "length": 11,
+      "value": "\"custom004\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 657,
+      "length": 11,
+      "value": "\"custom005\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 695,
+      "length": 11,
+      "value": "\"custom006\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 733,
+      "length": 11,
+      "value": "\"custom007\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 771,
+      "length": 11,
+      "value": "\"custom008\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 809,
+      "length": 11,
+      "value": "\"custom009\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 847,
+      "length": 11,
+      "value": "\"custom010\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 17,
+      "value": "\"in_app_purchase\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 927,
+      "length": 10,
+      "value": "\"purchase\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 188,
+      "length": 13,
+      "value": "\"add_to_cart\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 222,
+      "length": 17,
+      "value": "\"add_to_wishlist\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 6,
+      "value": "\"lead\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 11,
+      "value": "\"subscribe\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 326,
+      "length": 10,
+      "value": "\"schedule\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 360,
+      "length": 14,
+      "value": "\"view_content\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 395,
+      "length": 10,
+      "value": "\"level_up\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 426,
+      "length": 19,
+      "value": "\"complete_tutorial\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 464,
+      "length": 9,
+      "value": "\"sign_up\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 505,
+      "length": 11,
+      "value": "\"custom001\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 543,
+      "length": 11,
+      "value": "\"custom002\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 581,
+      "length": 11,
+      "value": "\"custom003\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 619,
+      "length": 11,
+      "value": "\"custom004\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 657,
+      "length": 11,
+      "value": "\"custom005\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 695,
+      "length": 11,
+      "value": "\"custom006\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 733,
+      "length": 11,
+      "value": "\"custom007\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 771,
+      "length": 11,
+      "value": "\"custom008\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 809,
+      "length": 11,
+      "value": "\"custom009\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 847,
+      "length": 11,
+      "value": "\"custom010\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 17,
+      "value": "\"in_app_purchase\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 927,
+      "length": 10,
+      "value": "\"purchase\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueueEntry.swift",
+      "kind": "BooleanLiteral",
+      "offset": 254,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerSamplingInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 443,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerSamplingInfo.swift",
+      "kind": "Dictionary",
+      "offset": 615,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2912,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2917,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3040,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3045,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3168,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3173,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3454,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3459,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3646,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3651,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 3781,
+      "length": 23,
+      "value": "\"PerformanceMonitorSDK\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 3846,
+      "length": 27,
+      "value": "\"NTrackerPerformancePlugin\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 3917,
+      "length": 36,
+      "value": "\"NTrackerPerformancePluginClassName\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 4005,
+      "length": 42,
+      "value": "\"NTrackerNetworkMetrickIgnoreDomainPrefix\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 4121,
+      "length": 67,
+      "value": "\"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_-.\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4243,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4283,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4326,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4377,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4381,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4386,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4391,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4396,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4448,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4453,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4458,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4595,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "Array",
+      "offset": 4763,
+      "length": 153,
+      "value": "[\"https:\/\/firebaselogging-pa.googleapis.com\"]"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 4983,
+      "length": 12,
+      "value": "\"perf_trace\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 5025,
+      "length": 14,
+      "value": "\"perf_network\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 5071,
+      "length": 16,
+      "value": "\"perf_rendering\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 5116,
+      "length": 13,
+      "value": "\"perf_memory\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 5155,
+      "length": 10,
+      "value": "\"perf_cpu\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 5197,
+      "length": 17,
+      "value": "\"perf_avitem_log\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 5253,
+      "length": 24,
+      "value": "\"perf_urlsession_metric\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 24434,
+      "length": 17,
+      "value": "\"InfoKeyDeviceID\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 24611,
+      "length": 19,
+      "value": "\"InfoKeySDKVersion\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "BooleanLiteral",
+      "offset": 31722,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 156,
+      "length": 10,
+      "value": "\"app_open\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 188,
+      "length": 13,
+      "value": "\"set_user_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 227,
+      "length": 17,
+      "value": "\"in_app_purchase\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 269,
+      "length": 15,
+      "value": "\"session_start\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 307,
+      "length": 13,
+      "value": "\"session_end\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 344,
+      "length": 14,
+      "value": "\"custom_event\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 385,
+      "length": 17,
+      "value": "\"predefine_event\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 18,
+      "value": "\"conversion_event\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 470,
+      "length": 11,
+      "value": "\"heartbeat\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 156,
+      "length": 10,
+      "value": "\"app_open\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 188,
+      "length": 13,
+      "value": "\"set_user_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 227,
+      "length": 17,
+      "value": "\"in_app_purchase\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 269,
+      "length": 15,
+      "value": "\"session_start\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 307,
+      "length": 13,
+      "value": "\"session_end\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 344,
+      "length": 14,
+      "value": "\"custom_event\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 385,
+      "length": 17,
+      "value": "\"predefine_event\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 18,
+      "value": "\"conversion_event\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 470,
+      "length": 11,
+      "value": "\"heartbeat\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1151,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 5331,
+      "length": 20,
+      "value": "\"NTrackerSDKExt.NTrackerEventLogBase\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 7052,
+      "length": 18,
+      "value": "\"NTrackerSDKExt.NTrackerLogAppOpen\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 7240,
+      "length": 20,
+      "value": "\"NTrackerSDKExt.NTrackerLogSetUserID\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 7432,
+      "length": 22,
+      "value": "\"NTrackerSDKExt.NTrackerLogCustomEvent\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 7804,
+      "length": 25,
+      "value": "\"NTrackerSDKExt.NTrackerLogPredefineEvent\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 8182,
+      "length": 26,
+      "value": "\"NTrackerSDKExt.NTrackerLogConversionEvent\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 9344,
+      "length": 23,
+      "value": "\"NTrackerSDKExt.NTrackerLogSessionStart\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 9531,
+      "length": 21,
+      "value": "\"NTrackerSDKExt.NTrackerLogSessionEnd\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 9993,
+      "length": 14,
+      "value": "\"NTrackerSDKExt.NTrackerLogIAP\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 11803,
+      "length": 9,
+      "value": "\"app.ext\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 11906,
+      "length": 12,
+      "value": "\"service_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 11942,
+      "length": 8,
+      "value": "\"log_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 11971,
+      "length": 4,
+      "value": "\"os\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 11999,
+      "length": 8,
+      "value": "\"os_ver\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12033,
+      "length": 10,
+      "value": "\"sdk_type\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12068,
+      "length": 9,
+      "value": "\"sdk_ver\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12102,
+      "length": 9,
+      "value": "\"app_ver\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12139,
+      "length": 12,
+      "value": "\"schema_ver\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12177,
+      "length": 10,
+      "value": "\"log_name\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12214,
+      "length": 11,
+      "value": "\"client_ts\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12252,
+      "length": 10,
+      "value": "\"timezone\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12289,
+      "length": 11,
+      "value": "\"device_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12329,
+      "length": 13,
+      "value": "\"device_type\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12372,
+      "length": 14,
+      "value": "\"device_model\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12411,
+      "length": 9,
+      "value": "\"mcc_mnc\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12450,
+      "length": 14,
+      "value": "\"network_type\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12489,
+      "length": 9,
+      "value": "\"user_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12529,
+      "length": 11,
+      "value": "\"user_prop\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12569,
+      "length": 11,
+      "value": "\"mbr_id_no\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12608,
+      "length": 12,
+      "value": "\"event_name\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12649,
+      "length": 13,
+      "value": "\"event_param\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12692,
+      "length": 10,
+      "value": "\"svc_tags\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12736,
+      "length": 14,
+      "value": "\"last_boot_ts\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12779,
+      "length": 13,
+      "value": "\"screen_size\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12819,
+      "length": 10,
+      "value": "\"language\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12857,
+      "length": 12,
+      "value": "\"webview_ua\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12893,
+      "length": 7,
+      "value": "\"build\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12927,
+      "length": 11,
+      "value": "\"bundle_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 12968,
+      "length": 14,
+      "value": "\"storage_size\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 13010,
+      "length": 15,
+      "value": "\"first_open_yn\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 13056,
+      "length": 13,
+      "value": "\"app_on_dktp\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 13092,
+      "length": 6,
+      "value": "\"idfv\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 13121,
+      "length": 6,
+      "value": "\"adid\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 13200,
+      "length": 10,
+      "value": "\"app_link\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 13249,
+      "length": 18,
+      "value": "\"session_duration\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Database\/NTrackerDatabase.swift",
+      "kind": "IntegerLiteral",
+      "offset": 204,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/Data-Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 145,
+      "length": 5,
+      "value": "16384"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/Data-Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 313,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/Data-Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 318,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 669,
+      "length": 25,
+      "value": "\"__ntracker_start_time__\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 733,
+      "length": 23,
+      "value": "\"__ntracker_end_time__\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 807,
+      "length": 35,
+      "value": "\"__ntracker_current_install_time__\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 885,
+      "length": 36,
+      "value": "\"__ntracker_app_link_gfa_click_id__\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 963,
+      "length": 35,
+      "value": "\"__ntracker_app_link_sa_click_id__\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 1043,
+      "length": 29,
+      "value": "\"__ntracker_idfa_collected__\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 1116,
+      "length": 27,
+      "value": "\"__ntracker_samping_info__\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1803,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 1919,
+      "length": 14,
+      "value": "\"gfa_click_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Extension\/UserDefaults-Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 1981,
+      "length": 13,
+      "value": "\"sa_click_id\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerRechability.swift",
+      "kind": "StringLiteral",
+      "offset": 524,
+      "length": 33,
+      "value": "\"ReachabilityChangedNotification\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerRechability.swift",
+      "kind": "StringLiteral",
+      "offset": 645,
+      "length": 21,
+      "value": "\"reachabilityChanged\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerRechability.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1870,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerRechability.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1976,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Network\/NTrackerDefaultNetworkClient.swift",
+      "kind": "IntegerLiteral",
+      "offset": 230,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Network\/NTrackerNetworkRequest.swift",
+      "kind": "FloatLiteral",
+      "offset": 585,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Network\/NTrackerNetworkRequest.swift",
+      "kind": "IntegerLiteral",
+      "offset": 631,
+      "length": 4,
+      "value": "4096"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Network\/NTrackerNetworkRequest.swift",
+      "kind": "IntegerLiteral",
+      "offset": 682,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 174,
+      "length": 9,
+      "value": "\"enqueue\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 244,
+      "length": 50,
+      "value": "\"com.navercorp.ntracker.serialqueue.entrydispatch\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "IntegerLiteral",
+      "offset": 322,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "IntegerLiteral",
+      "offset": 354,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "IntegerLiteral",
+      "offset": 385,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 501,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

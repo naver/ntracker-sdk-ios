@@ -1,0 +1,4 @@
+framework module NTrackerSDKExt {
+  header "NTrackerSDKExt-Swift.h"
+  requires objc
+}
