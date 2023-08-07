@@ -6,7 +6,7 @@
 > 전환 추적 설정의 정확도를 높이기 위해, 가이드 중 '[SDK 적용 절차 > 유입 경로 설정](https://naver.github.io/ntracker-sdk-ios/how_to_use_sdk/set_inflow_url)'에 대한 안내는 반드시 주의하여 읽어주세요
 
 ## 지원 환경
-iOS 10.0 이상
+iOS 13.0 이상
 
 ## SDK 적용 절차
 네이버 앱 전환 추적 SDK를 적용하는 절차는 다음과 같습니다.
