@@ -10,31 +10,31 @@
 		</data>
 		<key>Headers/NTrackerSDKExt-Swift.h</key>
 		<data>
-		HPBAqkm35Vi43/WQeg5cdUeEHjY=
+		WyYugh9ehv2zrG8layowIEauP2g=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sYnSf3hQN59ntrBtnjiwdnr/hvY=
+		F0WjP/DiiTgAEiw/qWRHDsGQGt0=
 		</data>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		d/AXKHcbvsATxhjsKLe1RNjHvq8=
+		sb4iI7Ov7ViaOM51AtdcAf/29+M=
 		</data>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		OPLZSVspZ7DmEnMVjkdRP+qSjF0=
+		B+t/zxgnxa3r2OYepWJCEBriALE=
 		</data>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		cE28YEum9gTutO4TIHafFYJP/BY=
+		gwgh6NumDmowzLIqp0lzX0gnL/k=
 		</data>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		OPLZSVspZ7DmEnMVjkdRP+qSjF0=
+		B+t/zxgnxa3r2OYepWJCEBriALE=
 		</data>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		LtixOg4g4eo1zSYyxWNgww8WJbw=
+		+lOPX5a6fUj6H+BtNPGeGSEOWQc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,42 +58,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FsE8KhqXxm6eUxnKn5zZODcFH/9dm8vEaIrVgEtXCu8=
+			GWXsH0KqjFShnjXQaCTwVJpvp6NAv9bf209t1GYaX7c=
 			</data>
 		</dict>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e699MvrcDfPIxMf8l74+XsxREv+A6GZxBLlmsSIQfmA=
+			pSaKlgv1ZtRtCc5fNtult0Vkys5zB9Z8DT3RkCwOSpg=
 			</data>
 		</dict>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YKmKbawH+pIBfILyGBTrzaAuMiRZz2JcSt0iHuH4mc4=
+			HykLGCXUdroyXKKJvaGtAqZOpuYwDue9g+F1pCAbZGA=
 			</data>
 		</dict>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X90GuVmXWfarm3AbvnjPosGqAF4+u0ajKXFp4hYMKJ0=
+			qq/sBKLArA34R5ouQalf6qVnrVVVuiM77h8gWTGlWTA=
 			</data>
 		</dict>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YKmKbawH+pIBfILyGBTrzaAuMiRZz2JcSt0iHuH4mc4=
+			HykLGCXUdroyXKKJvaGtAqZOpuYwDue9g+F1pCAbZGA=
 			</data>
 		</dict>
 		<key>Modules/NTrackerSDKExt.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RD6Ds0spnW9Imn8YFZirXDTu8GoRs9VOSPmDFHhxQAg=
+			/ncrD+Pr/90hsBewJTsROLbXiSRH/oFsvfznupP2QCE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NTrackerSDKExt"
-  spec.version      = "1.0.0"
+  spec.version      = "2.0.0"
   spec.summary      = "NAVER App Tracking SDK"
 
   spec.ios.deployment_target = "13.0"
