@@ -2602,7 +2602,8 @@
             "declAttributes": [
               "HasInitialValue",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "isLet": true,
             "hasStorage": true,
@@ -2622,6 +2623,54 @@
                 "declKind": "Accessor",
                 "usr": "s:14NTrackerSDKExt0A13LoggingOptionV11disableIDFAACvgZ",
                 "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV11disableIDFAACvgZ",
+                "moduleName": "NTrackerSDKExt",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "disableSqlite",
+            "printedName": "disableSqlite",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NTrackerLoggingOption",
+                "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NTrackerSDKExt0A13LoggingOptionV13disableSqliteACvpZ",
+            "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV13disableSqliteACvpZ",
+            "moduleName": "NTrackerSDKExt",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NTrackerLoggingOption",
+                    "printedName": "NTrackerSDKExt.NTrackerLoggingOption",
+                    "usr": "s:14NTrackerSDKExt0A13LoggingOptionV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NTrackerSDKExt0A13LoggingOptionV13disableSqliteACvgZ",
+                "mangledName": "$s14NTrackerSDKExt0A13LoggingOptionV13disableSqliteACvgZ",
                 "moduleName": "NTrackerSDKExt",
                 "static": true,
                 "implicit": true,
@@ -3260,203 +3309,203 @@
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "FloatLiteral",
-      "offset": 1385,
+      "offset": 1481,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 1708,
+      "offset": 1804,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 1734,
+      "offset": 1830,
       "length": 33,
       "value": "\"Reechability Connection is NONE\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 1878,
+      "offset": 1974,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 2665,
+      "offset": 2761,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 2698,
+      "offset": 2794,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 2724,
+      "offset": 2820,
       "length": 48,
       "value": "\">>>>>>>>>> deliveryTask start wait  <<<<<<<<<<\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 2872,
+      "offset": 2968,
       "length": 46,
       "value": "\">>>>>>>>>> deliveryTask end wait  <<<<<<<<<<\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "FloatLiteral",
-      "offset": 2987,
+      "offset": 3083,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 3317,
+      "offset": 3413,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 3346,
+      "offset": 3442,
       "length": 32,
       "value": "\"-> sendRequest process success\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "FloatLiteral",
-      "offset": 3460,
+      "offset": 3556,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 3508,
+      "offset": 3604,
       "length": 31,
       "value": "\"-> sendRequest process failed\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 3809,
+      "offset": 3905,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 3863,
+      "offset": 3959,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 3894,
+      "offset": 3990,
       "length": 30,
       "value": "\"Request Body is nil or zero.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 3982,
+      "offset": 4078,
       "length": 64,
       "value": "\"Request Data : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4039,
+      "offset": 4135,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4045,
+      "offset": 4141,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4432,
+      "offset": 4528,
       "length": 37,
       "value": "\">>> request count : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4468,
+      "offset": 4564,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "BooleanLiteral",
-      "offset": 4555,
+      "offset": 4651,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "Array",
-      "offset": 4649,
+      "offset": 4745,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4724,
+      "offset": 4820,
       "length": 42,
       "value": "\"JSON Format Error. \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4765,
+      "offset": 4861,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4845,
+      "offset": 4941,
       "length": 54,
       "value": "\"requestContent error : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 4898,
+      "offset": 4994,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 5162,
+      "offset": 5258,
       "length": 35,
       "value": "\"Reechability Changed to Reachable\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/EventDelivery.swift",
       "kind": "StringLiteral",
-      "offset": 5265,
+      "offset": 5361,
       "length": 30,
       "value": "\"Reechability Changed to NONE\""
     },
@@ -4186,7 +4235,7 @@
       "kind": "StringLiteral",
       "offset": 555,
       "length": 7,
-      "value": "\"2.0.0\""
+      "value": "\"2.0.1\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerInfo.swift",
@@ -4421,15 +4470,22 @@
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 817,
+      "length": 12,
+      "value": "\"%{public}@\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerLogger.swift",
       "kind": "BooleanLiteral",
-      "offset": 977,
+      "offset": 1021,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Util\/NTrackerLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1003,
+      "offset": 1047,
       "length": 12,
       "value": "\"%{public}@\""
     },
@@ -4667,238 +4723,273 @@
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 1638,
+      "offset": 1679,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 1676,
+      "offset": 1717,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 1876,
+      "offset": 1917,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 2010,
+      "offset": 2051,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 2166,
+      "offset": 2207,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 2223,
+      "offset": 2264,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 2400,
+      "offset": 2441,
       "length": 10,
       "value": "2222222222"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 2550,
+      "offset": 2591,
       "length": 20,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 2564,
+      "offset": 2605,
       "length": 5,
       "value": "\"00000\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 2674,
+      "offset": 2692,
+      "length": 25,
+      "value": "\"NTrackerCollectorDomain\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 2787,
+      "length": 45,
+      "value": "\"custom collector domain : [\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 2830,
+      "length": 1,
+      "value": "\"]\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 2864,
+      "length": 38,
+      "value": "\"https:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 2888,
+      "length": 1,
+      "value": "\"\/nlog\/sdk\/v1\/\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
+      "kind": "StringLiteral",
+      "offset": 3067,
       "length": 29,
       "value": "\"Start Reachability Notifier\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 2741,
+      "offset": 3134,
       "length": 68,
       "value": "\"Cannot start Reachability Notifier : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 2808,
+      "offset": 3201,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 3493,
+      "offset": 3886,
       "length": 137,
       "value": "\"nApps (\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 3529,
+      "offset": 3922,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 3561,
+      "offset": 3954,
       "length": 1,
       "value": "\"; Apple \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 3590,
+      "offset": 3983,
       "length": 1,
       "value": "\"; \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 3600,
+      "offset": 3993,
       "length": 1,
       "value": "\"; \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 3628,
+      "offset": 4021,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 4032,
+      "offset": 4425,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 4051,
+      "offset": 4444,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 4246,
+      "offset": 4639,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 4524,
+      "offset": 4917,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "IntegerLiteral",
-      "offset": 4550,
+      "offset": 4943,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 4562,
+      "offset": 4955,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 4710,
+      "offset": 5103,
       "length": 6,
       "value": "\"%@%@\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 5436,
+      "offset": 5829,
       "length": 4,
       "value": "\"ni\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 5465,
+      "offset": 5858,
       "length": 6,
       "value": "\"idfv\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 5543,
+      "offset": 5936,
       "length": 4,
       "value": "\"ni\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 5572,
+      "offset": 5965,
       "length": 6,
       "value": "\"idfv\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 5599,
+      "offset": 5992,
       "length": 6,
       "value": "\"adid\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 5661,
+      "offset": 6054,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 6556,
+      "offset": 6949,
       "length": 8,
       "value": "\"Cookie\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 6605,
+      "offset": 6998,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerContext.swift",
       "kind": "StringLiteral",
-      "offset": 7104,
+      "offset": 7497,
       "length": 8,
       "value": "\"common\""
     },
@@ -5640,826 +5731,861 @@
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4053,
+      "offset": 4096,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4058,
+      "offset": 4101,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4311,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4316,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 4188,
+      "offset": 4446,
       "length": 23,
       "value": "\"PerformanceMonitorSDK\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 4253,
+      "offset": 4511,
       "length": 27,
       "value": "\"NTrackerPerformancePlugin\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 4324,
+      "offset": 4582,
       "length": 36,
       "value": "\"NTrackerPerformancePluginClassName\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 4412,
+      "offset": 4670,
       "length": 42,
       "value": "\"NTrackerNetworkMetrickIgnoreDomainPrefix\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 4528,
+      "offset": 4786,
       "length": 67,
       "value": "\"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_-.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4650,
+      "offset": 4908,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4690,
+      "offset": 4948,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4733,
+      "offset": 4991,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4784,
+      "offset": 5042,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4788,
+      "offset": 5046,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4793,
+      "offset": 5051,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4798,
+      "offset": 5056,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4803,
+      "offset": 5061,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4855,
+      "offset": 5113,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4860,
+      "offset": 5118,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 4865,
+      "offset": 5123,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 5002,
+      "offset": 5260,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "Array",
-      "offset": 5170,
+      "offset": 5428,
       "length": 153,
       "value": "[\"https:\/\/firebaselogging-pa.googleapis.com\"]"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "Array",
-      "offset": 8334,
+      "offset": 8592,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 8460,
+      "offset": 8718,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 8485,
+      "offset": 8743,
       "length": 34,
       "value": "\"NTracker is already initialized.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 8592,
+      "offset": 8850,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 8794,
+      "offset": 9052,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 8820,
+      "offset": 9078,
       "length": 36,
       "value": "\"☠️ tracker context is invalid.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 9081,
+      "offset": 9339,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 9107,
+      "offset": 9365,
       "length": 39,
       "value": "\"☠️ network client setting failed.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10485,
+      "offset": 10743,
       "length": 10,
       "value": "\"external\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10562,
+      "offset": 10820,
       "length": 35,
       "value": "\"-- NTracker SDK Info ------------\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10613,
+      "offset": 10871,
       "length": 50,
       "value": "\"- version : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10652,
+      "offset": 10910,
       "length": 1,
       "value": "\" (\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10661,
+      "offset": 10919,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10679,
+      "offset": 10937,
       "length": 155,
       "value": "\"- appID : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10728,
+      "offset": 10986,
       "length": 1,
       "value": "\" (corp: \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10777,
+      "offset": 11035,
       "length": 1,
       "value": "\" ,service: \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10832,
+      "offset": 11090,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10850,
+      "offset": 11108,
       "length": 99,
       "value": "\"- phase : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10928,
+      "offset": 11186,
       "length": 9,
       "value": "\"release\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10940,
+      "offset": 11198,
       "length": 7,
       "value": "\"debug\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10948,
+      "offset": 11206,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10965,
+      "offset": 11223,
       "length": 60,
       "value": "\"- network : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11003,
+      "offset": 11261,
       "length": 9,
       "value": "\"default\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11015,
+      "offset": 11273,
       "length": 8,
       "value": "\"custom\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11024,
+      "offset": 11282,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11041,
+      "offset": 11299,
       "length": 39,
       "value": "\"- clientID : \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11079,
+      "offset": 11337,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11096,
+      "offset": 11354,
+      "length": 58,
+      "value": "\"- options : \""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11408,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 11411,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
+      "kind": "StringLiteral",
+      "offset": 11428,
       "length": 35,
       "value": "\"---------------------------------\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11219,
+      "offset": 11551,
       "length": 38,
       "value": "\"logging option : disableAppLifecycle\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11347,
+      "offset": 11679,
       "length": 30,
       "value": "\"logging option : disableIDFA\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11888,
+      "offset": 12220,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11932,
+      "offset": 12264,
       "length": 44,
       "value": "\"parameter dictionary must have 'type' key.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 12360,
+      "offset": 12692,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 12834,
+      "offset": 13166,
       "length": 25,
       "value": "\"SDK is not initialized.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 13010,
+      "offset": 13342,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 13054,
+      "offset": 13386,
       "length": 44,
       "value": "\"parameter dictionary must have 'type' key.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 13532,
+      "offset": 13864,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 13924,
+      "offset": 14256,
       "length": 63,
       "value": "\"SDK is not initialized. Initialize using the 'configure' API.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14095,
+      "offset": 14427,
       "length": 21,
       "value": "\"Invalid event name.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14380,
+      "offset": 14712,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14388,
+      "offset": 14720,
       "length": 19,
       "value": "\"custom.conversion\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14455,
+      "offset": 14787,
       "length": 9,
       "value": "\"evt_key\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14544,
+      "offset": 14876,
       "length": 12,
       "value": "\"evt_source\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14558,
+      "offset": 14890,
       "length": 10,
       "value": "\"ntracker\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14616,
+      "offset": 14948,
       "length": 11,
       "value": "\"conv_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 14681,
+      "offset": 15013,
       "length": 18,
       "value": "\"attribution_info\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "Dictionary",
-      "offset": 14884,
+      "offset": 15216,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 15059,
+      "offset": 15391,
       "length": 12,
       "value": "\"na.site_id\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 16017,
+      "offset": 16349,
       "length": 16,
       "value": "\"app_first_adid\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 16093,
+      "offset": 16425,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 16279,
+      "offset": 16611,
       "length": 17,
       "value": "\"InfoKeyDeviceID\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 16456,
+      "offset": 16788,
       "length": 19,
       "value": "\"InfoKeySDKVersion\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 17441,
+      "offset": 17773,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 19090,
+      "offset": 19422,
       "length": 8,
       "value": "\"\/event\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 19374,
+      "offset": 19706,
       "length": 12,
       "value": "\"\/heartbeat\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 19479,
+      "offset": 19811,
       "length": 28,
       "value": "\"using collector \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 19506,
+      "offset": 19838,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 19593,
+      "offset": 19925,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 19666,
+      "offset": 19998,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 19686,
+      "offset": 20018,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 19885,
+      "offset": 20217,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 22215,
+      "offset": 22547,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 22266,
+      "offset": 22598,
       "length": 16,
       "value": "\"app_first_open\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 22353,
+      "offset": 22685,
       "length": 10,
       "value": "\"app_open\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 22757,
+      "offset": 23089,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 22951,
+      "offset": 23283,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 23001,
+      "offset": 23333,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 23782,
+      "offset": 24114,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 24013,
+      "offset": 24345,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 24083,
+      "offset": 24415,
       "length": 34,
       "value": "\"NTracker SDK is not initialized.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 24201,
+      "offset": 24533,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 24232,
+      "offset": 24564,
       "length": 35,
       "value": "\"NTracker session already started.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 24495,
+      "offset": 24827,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 24597,
+      "offset": 24929,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 25063,
+      "offset": 25395,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 25321,
+      "offset": 25653,
       "length": 34,
       "value": "\"NTracker SDK is not initialized.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 25439,
+      "offset": 25771,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 25469,
+      "offset": 25801,
       "length": 35,
       "value": "\"NTracker session already stopped.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 25927,
+      "offset": 26259,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 26476,
+      "offset": 26808,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 26656,
+      "offset": 26988,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 26721,
+      "offset": 27053,
       "length": 71,
       "value": "\"log name is too long or short. max length is \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 26791,
+      "offset": 27123,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 26813,
+      "offset": 27145,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 26926,
+      "offset": 27258,
       "length": 47,
       "value": "\"log name has invalid character.(\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 26971,
+      "offset": 27303,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 26994,
+      "offset": 27326,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 27034,
+      "offset": 27366,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 27206,
+      "offset": 27538,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 27226,
+      "offset": 27558,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 27248,
+      "offset": 27580,
       "length": 24,
       "value": "\"☠️ appID is empty.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 27293,
+      "offset": 27625,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 27377,
+      "offset": 27709,
       "length": 27,
       "value": "\"☠️ appID is too long.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 27425,
+      "offset": 27757,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 27457,
+      "offset": 27789,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 27561,
+      "offset": 27893,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 27588,
+      "offset": 27920,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/NTrackerCore.swift",
       "kind": "BooleanLiteral",
-      "offset": 27628,
+      "offset": 27960,
       "length": 4,
       "value": "true"
     },
@@ -6535,526 +6661,568 @@
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "IntegerLiteral",
+      "offset": 448,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 964,
+      "offset": 1025,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 997,
+      "offset": 1058,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "IntegerLiteral",
-      "offset": 1219,
+      "offset": 1280,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 1661,
+      "offset": 1722,
       "length": 18,
       "value": "\"korea_real\/korea\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 1682,
+      "offset": 1743,
       "length": 18,
       "value": "\"korea_test\/korea\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1752,
+      "offset": 1813,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 2213,
+      "offset": 2274,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 2270,
+      "offset": 2331,
       "length": 7,
       "value": "\"perf_\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 2368,
+      "offset": 2429,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 2477,
+      "offset": 2538,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3141,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 3256,
+      "offset": 3255,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "Array",
+      "offset": 3275,
+      "length": 36,
+      "value": "[\"screenview\", \"action\", \"campaign\"]"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3395,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3422,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
+      "kind": "StringLiteral",
+      "offset": 4252,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 3460,
+      "offset": 4450,
       "length": 5,
       "value": "\"app\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 3835,
+      "offset": 4825,
       "length": 9,
       "value": "\"%@.%06d\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4197,
+      "offset": 5187,
       "length": 6,
       "value": "\"corp\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4229,
+      "offset": 5219,
       "length": 5,
       "value": "\"svc\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4261,
+      "offset": 5251,
       "length": 10,
       "value": "\"location\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4301,
+      "offset": 5291,
       "length": 10,
       "value": "\"svc_tags\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4334,
+      "offset": 5324,
       "length": 6,
       "value": "\"tool\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4365,
+      "offset": 5355,
       "length": 9,
       "value": "\"send_ts\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4397,
+      "offset": 5387,
       "length": 5,
       "value": "\"usr\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4424,
+      "offset": 5414,
       "length": 5,
       "value": "\"env\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4453,
+      "offset": 5443,
       "length": 6,
       "value": "\"evts\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4512,
+      "offset": 5502,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4548,
+      "offset": 5538,
       "length": 5,
       "value": "\"ver\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4613,
+      "offset": 5603,
       "length": 9,
       "value": "\"os_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4654,
+      "offset": 5644,
       "length": 8,
       "value": "\"os_ver\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4695,
+      "offset": 5685,
       "length": 13,
       "value": "\"device_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4742,
+      "offset": 5732,
       "length": 14,
       "value": "\"device_model\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4791,
+      "offset": 5781,
       "length": 15,
       "value": "\"device_locale\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4845,
+      "offset": 5835,
       "length": 11,
       "value": "\"device_sr\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4884,
+      "offset": 5874,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4925,
+      "offset": 5915,
       "length": 9,
       "value": "\"app_ver\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 4965,
+      "offset": 5955,
       "length": 10,
       "value": "\"timezone\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5004,
+      "offset": 5994,
       "length": 9,
       "value": "\"mcc_mnc\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5047,
+      "offset": 6037,
       "length": 14,
       "value": "\"network_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5090,
+      "offset": 6080,
       "length": 9,
       "value": "\"init_ts\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5134,
+      "offset": 6124,
       "length": 15,
       "value": "\"platform_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5212,
+      "offset": 6202,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5246,
+      "offset": 6236,
       "length": 8,
       "value": "\"evt_ts\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5282,
+      "offset": 6272,
       "length": 9,
       "value": "\"nlog_id\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5323,
+      "offset": 6313,
       "length": 12,
       "value": "\"nlog_retry\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5424,
+      "offset": 6414,
       "length": 10,
       "value": "\"app_open\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5469,
+      "offset": 6459,
       "length": 15,
       "value": "\"session_start\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5517,
+      "offset": 6507,
       "length": 13,
       "value": "\"session_end\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5562,
+      "offset": 6552,
       "length": 11,
       "value": "\"heartbeat\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5632,
+      "offset": 6622,
       "length": 17,
       "value": "\"in_app_purchase\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5852,
+      "offset": 6842,
       "length": 12,
       "value": "\"perf_trace\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5894,
+      "offset": 6884,
       "length": 14,
       "value": "\"perf_network\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5940,
+      "offset": 6930,
       "length": 16,
       "value": "\"perf_rendering\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 5985,
+      "offset": 6975,
       "length": 13,
       "value": "\"perf_memory\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6024,
+      "offset": 7014,
       "length": 10,
       "value": "\"perf_cpu\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6066,
+      "offset": 7056,
       "length": 17,
       "value": "\"perf_avitem_log\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6122,
+      "offset": 7112,
       "length": 24,
       "value": "\"perf_urlsession_metric\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6184,
+      "offset": 7174,
       "length": 23,
       "value": "\"perf_metrickit_metric\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6249,
+      "offset": 7239,
       "length": 27,
       "value": "\"perf_metrickit_diagnostic\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6630,
+      "offset": 7620,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6695,
+      "offset": 7685,
       "length": 16,
       "value": "\"nlog_send_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "IntegerLiteral",
-      "offset": 6713,
+      "offset": 7703,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 6736,
+      "offset": 7726,
       "length": 13,
       "value": "\"app_on_dktp\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7026,
+      "offset": 8016,
       "length": 7,
       "value": "\"build\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7083,
+      "offset": 8073,
       "length": 11,
       "value": "\"bundle_id\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7221,
+      "offset": 8211,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7291,
+      "offset": 8281,
       "length": 16,
       "value": "\"nlog_send_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "IntegerLiteral",
-      "offset": 7309,
+      "offset": 8299,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7438,
+      "offset": 8428,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7506,
+      "offset": 8496,
       "length": 16,
       "value": "\"nlog_send_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "IntegerLiteral",
-      "offset": 7524,
+      "offset": 8514,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7547,
+      "offset": 8537,
       "length": 15,
       "value": "\"heartbeat_cnt\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7600,
+      "offset": 8590,
       "length": 18,
       "value": "\"session_duration\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7721,
+      "offset": 8711,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 7788,
+      "offset": 8778,
       "length": 16,
       "value": "\"nlog_send_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "IntegerLiteral",
-      "offset": 7806,
+      "offset": 8796,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 8195,
+      "offset": 9185,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "StringLiteral",
-      "offset": 8255,
+      "offset": 9245,
       "length": 16,
       "value": "\"nlog_send_type\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/Model\/NTrackerLog.swift",
       "kind": "IntegerLiteral",
-      "offset": 8273,
+      "offset": 9263,
       "length": 1,
       "value": "1"
     },
@@ -8041,198 +8209,219 @@
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "StringLiteral",
-      "offset": 596,
+      "offset": 606,
       "length": 24,
       "value": "\"ntracker_ext_log_v1.db\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "Array",
-      "offset": 934,
+      "offset": 1092,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 1016,
+      "offset": 1174,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 1075,
+      "offset": 1233,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 1249,
+      "offset": 1407,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 1313,
+      "offset": 1471,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 1373,
+      "offset": 1614,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 1545,
+      "offset": 1789,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 1704,
+      "offset": 1948,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 2274,
+      "offset": 2486,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2524,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 2445,
+      "offset": 2695,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "StringLiteral",
-      "offset": 2861,
+      "offset": 3111,
       "length": 36,
       "value": "\"Log Parsing Fail. Skip processing.\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 3290,
+      "offset": 3540,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 3428,
+      "offset": 3678,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 3769,
+      "offset": 4037,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 3952,
+      "offset": 4220,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 4126,
+      "offset": 4394,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 4241,
+      "offset": 4477,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4515,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 4295,
+      "offset": 4569,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 4352,
+      "offset": 4626,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 4439,
+      "offset": 4713,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "StringLiteral",
-      "offset": 4815,
+      "offset": 5090,
       "length": 32,
       "value": "\"truncate count \""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "StringLiteral",
-      "offset": 4846,
+      "offset": 5121,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 5349,
+      "offset": 5624,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "IntegerLiteral",
-      "offset": 5597,
+      "offset": 5872,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "StringLiteral",
-      "offset": 5850,
+      "offset": 6125,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "StringLiteral",
-      "offset": 5864,
+      "offset": 6139,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 6015,
+      "offset": 6290,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hongseok\/Documents\/Sources\/Navercorp\/ntracker\/ntracker-sdk-ios\/Sources\/System\/DeliveryQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 114,
+      "length": 13,
+      "value": "\"NTrackerSDKExt.DeliveryQueue\""
     }
   ]
 }
